@@ -71,7 +71,7 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
 - **Objective**: Examine common seating configurations
 - **Insights**: Highlight frequency of each seating capacity
 - **Visual**:
- <img src="./Results/Distribution_Of_seats.png" width="800" alt="Visual5">
+ <img src="Results/Distribution_of_seats.png" width="800" alt="Visual5">
 
 ---
 
