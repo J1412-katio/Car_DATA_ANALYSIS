@@ -10,15 +10,16 @@ performance, and global automotive market dynamics.
 
 The automotive industry’s pricing and performance metrics are influenced by complex factors like engineering specs (e.g., horsepower, engine capacity), brand reputation, and regional market dynamics. While vast amounts of car listing data exist, there’s a gap in:
 
--**Actionable Insights**: Linking technical specs to real-world pricing trends.
+- **Actionable Insights**: Linking technical specs to real-world pricing trends.
 
--**Market Segmentation**: Understanding how brands/countries position vehicles 	(e.g., budget vs. luxury).
+- **Market Segmentation**: Understanding how brands/countries position vehicles 	(e.g., budget vs. luxury).
 
--**Performance-Price Trade-offs**: Identifying whether higher engine power or speed justifies price premiums.
+- **Performance-Price Trade-offs**: Identifying whether higher engine power or speed justifies price premiums.
 
 ---
 
-## **Outcome** : A data-driven guide for stakeholders (buyers, manufacturers, dealers) to navigate pricing, performance, and market positioning.
+## **Outcome** 
+    A data-driven guide for stakeholders (buyers, manufacturers, dealers) to navigate pricing, performance, and market positioning.
 ---
 
 ## 📂 Dataset Overview
@@ -43,25 +44,34 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
 - **Objective**: Identify market dominance by brand
 - **Insights**: Determine which brands have the most car models in the dataset
 - **Visual**:
-- <img src="./Results/Top_10_Brands.png" width="500" alt="Visual1">
+ <img src="./Results/Top_10_Brands.png" width="800" alt="Visual1">
+
 ### 2. 💰 Top 10 Cars by Average Price
 - **Objective**: Discover the most expensive car models on average
 - **Insights**: Understand luxury market leaders
-
+- **Visual**:
+ <img src="./Results/Average_price.png" width="800" alt="Visual2">
 
 ### 3. 🌍 Top Speed Distribution by Country
 - **Objective**: Compare vehicle performance across countries
 - **Insights**: Identify median and outlier top speeds per region
+- **Visual**:
+ <img src="./Results/Speed_vs_Country.png" width="800" alt="Visual3">
 
 ### 4. ⚡ Price vs. Horsepower Relationship
 - **Objective**: Analyze price-to-power correlation
 - **Insights**:
   - Identify value outliers
   - Compare brand strategies
+  - **Visual**:
+ <img src="./Results/Price_vs_horsepower.png" width="800" alt="Visual4">
+
 
 ### 5. 🪑 Distribution of Seats
 - **Objective**: Examine common seating configurations
 - **Insights**: Highlight frequency of each seating capacity
+- **Visual**:
+ <img src="./Results/Distribution_Of_seats.png" width="800" alt="Visual5">
 
 ---
 
