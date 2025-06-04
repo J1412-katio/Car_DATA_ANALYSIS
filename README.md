@@ -10,13 +10,15 @@ performance, and global automotive market dynamics.
 
 The automotive industry’s pricing and performance metrics are influenced by complex factors like engineering specs (e.g., horsepower, engine capacity), brand reputation, and regional market dynamics. While vast amounts of car listing data exist, there’s a gap in:
 
-	**Actionable Insights**: Linking technical specs to real-world pricing trends.
+-**Actionable Insights**: Linking technical specs to real-world pricing trends.
 
-    	**Market Segmentation**: Understanding how brands/countries position vehicles 		(e.g., budget vs. luxury).
+-**Market Segmentation**: Understanding how brands/countries position vehicles 	(e.g., budget vs. luxury).
 
-    	**Performance-Price Trade-offs**: Identifying whether higher engine power or 	speed justifies price premiums.
+-**Performance-Price Trade-offs**: Identifying whether higher engine power or speed justifies price premiums.
 
-**Outcome**: A data-driven guide for stakeholders (buyers, manufacturers, dealers) to navigate pricing, performance, and market positioning.
+---
+
+## **Outcome** : A data-driven guide for stakeholders (buyers, manufacturers, dealers) to navigate pricing, performance, and market positioning.
 ---
 
 ## 📂 Dataset Overview
@@ -40,8 +42,9 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
 ### 1. 🏢 Count of Cars by Top 10 Brands
 - **Objective**: Identify market dominance by brand
 - **Insights**: Determine which brands have the most car models in the dataset
-- 
-  - ### 2. 💰 Top 10 Cars by Average Price
+- **Visual**:
+- <img src="./Results/Top_10_Brands.png" width="500" alt="Visual1">
+### 2. 💰 Top 10 Cars by Average Price
 - **Objective**: Discover the most expensive car models on average
 - **Insights**: Understand luxury market leaders
 
