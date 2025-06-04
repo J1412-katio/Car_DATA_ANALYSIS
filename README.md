@@ -64,7 +64,7 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
   - Identify value outliers
   - Compare brand strategies
   - **Visual**:
- <img src=".Results/Price_vs_Horsepower.png" width="800" alt="Visual4">
+ <img src="./Results/Price_vs_Horsepower.png" width="800" alt="Visual4">
 
 
 ### 5. 🪑 Distribution of Seats
