@@ -25,8 +25,8 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
 
 **2. Market Share by Brand** 
 
--**Top 3 Brands**: Likely Mercedes-Benz, BMW, Audi (exact counts unclear due to axis labels).
--**Observation**: German brands dominate listings, indicating strong market presence.
+- **Top 3 Brands**: Likely Mercedes-Benz, BMW, Audi (exact counts unclear due to axis labels).
+- **Observation**: German brands dominate listings, indicating strong market presence.
       
 **3. Performance by Country**
 
