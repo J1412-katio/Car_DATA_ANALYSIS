@@ -23,15 +23,15 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
     - **Outlier**: McLaren Senna's listed price ($3B) suggests data error (likely misformatted).
     - **Trend**: Ultra-luxury brands (Bugatti/Bentley) command 10x premiums over premium brands (Mercedes/Aston Martin).
 
-- **2. Market Share by Brand** 
+- **Market Share by Brand** 
 
-    -**Top 3 Brands**: Likely Mercedes-Benz, BMW, Audi (exact counts unclear due to axis labels).
+    - **Top 3 Brands**: Likely Mercedes-Benz, BMW, Audi (exact counts unclear due to axis labels).
     - **Observation**: German brands dominate listings, indicating strong market presence.
       
 - **3. Performance by Country**
 
     - **Top Speed Leaders**: Italy (median ~300 km/h), Germany (~250 km/h) – reflects focus on high-performance engineering.
-    - ** Practical Range**: Most countries cluster between 150–250 km/h.
+    - **Practical Range**: Most countries cluster between 150–250 km/h.
     
 - **4. Price vs. Horsepower**
 - 
@@ -39,9 +39,9 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
     - **Outliers**: Some high-HP cars (e.g., 600+ HP) may offer "value" relative to luxury counterparts.
       
 **5. Seating Capacity**
-    
-    - **Dominant Config**: 5-seaters (68% of listings), followed by 2-seaters (sports cars) and 7-seaters (SUVs).
-    - **Niche Demand**: 4/6/8-seaters are rare, suggesting specialized use cases.
+
+- **Dominant Config**: 5-seaters (68% of listings), followed by 2-seaters (sports cars) and 7-seaters (SUVs).
+- **Niche Demand**: 4/6/8-seaters are rare, suggesting specialized use cases.
 
 ---
 
