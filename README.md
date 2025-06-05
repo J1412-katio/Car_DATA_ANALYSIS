@@ -17,26 +17,26 @@ This dataset includes **6,308 entries** with **9 object-type columns**, each rep
 ---
 ## 🚀 Key Insights from Car Data Analysis
 
-- **Luxury Market Dominance (Average Price)**
+**1.Luxury Market Dominance (Average Price)**
 
-    - Bugatti Chiron leads as most expensive ($13.3M), followed by Bentley models (Continental GT: $10.1M)
-    - **Outlier**: McLaren Senna's listed price ($3B) suggests data error (likely misformatted).
-    - **Trend**: Ultra-luxury brands (Bugatti/Bentley) command 10x premiums over premium brands (Mercedes/Aston Martin).
+- Bugatti Chiron leads as most expensive ($13.3M), followed by Bentley models (Continental GT: $10.1M)
+- **Outlier**: McLaren Senna's listed price ($3B) suggests data error (likely misformatted).
+- **Trend**: Ultra-luxury brands (Bugatti/Bentley) command 10x premiums over premium brands (Mercedes/Aston Martin).
 
-- **Market Share by Brand** 
+**2. Market Share by Brand** 
 
-    - **Top 3 Brands**: Likely Mercedes-Benz, BMW, Audi (exact counts unclear due to axis labels).
-    - **Observation**: German brands dominate listings, indicating strong market presence.
+-**Top 3 Brands**: Likely Mercedes-Benz, BMW, Audi (exact counts unclear due to axis labels).
+-**Observation**: German brands dominate listings, indicating strong market presence.
       
-- **3. Performance by Country**
+**3. Performance by Country**
 
-    - **Top Speed Leaders**: Italy (median ~300 km/h), Germany (~250 km/h) – reflects focus on high-performance engineering.
-    - **Practical Range**: Most countries cluster between 150–250 km/h.
+- **Top Speed Leaders**: Italy (median ~300 km/h), Germany (~250 km/h) – reflects focus on high-performance engineering.
+- **Practical Range**: Most countries cluster between 150–250 km/h.
     
-- **4. Price vs. Horsepower**
-- 
-    - **Strong Correlation**: Higher horsepower generally commands premium pricing.
-    - **Outliers**: Some high-HP cars (e.g., 600+ HP) may offer "value" relative to luxury counterparts.
+**4. Price vs. Horsepower**
+
+- **Strong Correlation**: Higher horsepower generally commands premium pricing.
+- **Outliers**: Some high-HP cars (e.g., 600+ HP) may offer "value" relative to luxury counterparts.
       
 **5. Seating Capacity**
 
